@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+
+body{
+    background: linear-gradient(to right, rgb(126, 17, 235),rgb(74, 20, 236));
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: fit-content;
+    height: 200px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+}
+h1{
+    font-size: 30px;
+    color: hotpink;
+}
